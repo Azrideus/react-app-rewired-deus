@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewired-deus",
-  "version": "2.1.8",
+  "version": "2.1.8.1",
   "description": "Tweak the create-react-app webpack config(s) without using 'eject' and without creating a fork of the react-scripts , Edit by Azrideus",
   "private": false,
   "bin": {
