@@ -24,6 +24,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "customize-cra": "^0.2.11"
+    "customize-cra-deus": "^0.2.11"
   }
 }
